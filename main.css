@@ -1,0 +1,75 @@
+
+/*fonts*/
+@import url('https://fonts.googleapis.com/css?family=Do+Hyeon|Oleo+Script|Pacifico|Ranga');
+
+
+.alert-link
+{
+	font-family: Ranga !important;
+	font-size: 30px;
+	
+	text-decoration-color: green !important;
+}
+
+.card
+{
+
+ 	float: left !important;
+    width: 16% !important;
+    margin-bottom: 10px !important;
+    padding: 0 15px !important;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url("bg.jpeg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax1 {
+    /* The image used */
+    background-image: url("bg1.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax2 {
+    /* The image used */
+    background-image: url("bg2.jpeg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax3 {
+    /* The image used */
+    background-image: url("bg3.jpeg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
