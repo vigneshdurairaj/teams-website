@@ -4,7 +4,7 @@
   {
     position: absolute;
     left: 0;
-    top: 40%;
+    top: 40%; 
     width: 100%;
     text-align: center;
     color: white;
@@ -12,7 +12,7 @@
     font-family: 'Josefin Sans', sans-serif;
   }
 
-  body  
+  body
   {
     background-color: black !important;
     background-repeat: repeat;
